@@ -1,0 +1,337 @@
+{
+  "q": "анапа",
+  "rid": "757871e43bc04358bbfca2129d612d11",
+  "rc": "OK",
+  "sr": [
+    {
+      "@type": "gaiaHotelResult",
+      "index": "0",
+      "hotelId": "12319246",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Alean Family Resort & SPA Doville — Все включено, Анапа, Краснодарский край, Россия",
+        "shortName": "Alean Family Resort & SPA Doville — Все включено",
+        "displayName": "Alean Family Resort & SPA Doville — Все включено, Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "Alean Family Resort & SPA Doville — Все включено",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "Alean Family Resort & SPA Doville — Все включено"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "12319246"
+      },
+      "coordinates": {
+        "lat": "44.918554",
+        "long": "37.327206"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "26 Simferopolskoe Highway",
+        "city": "Anapa",
+        "province": "Krasnodar Krai"
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "1",
+      "hotelId": "17253611",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Отель «Олимп» («Все включено»), Анапа, Краснодарский край, Россия",
+        "shortName": "Отель «Олимп» («Все включено»)",
+        "displayName": "Отель «Олимп» («Все включено»), Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "Отель «Олимп» («Все включено»)",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "Отель «Олимп» («Все включено»)"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "17253611"
+      },
+      "coordinates": {
+        "lat": "44.959855",
+        "long": "37.293498"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "Pionersky Prospect 88",
+        "city": "Anapa",
+        "province": "Krasnodar Krai"
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "2",
+      "hotelId": "10224714",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Санаторий и спа «Старинная Анапа», Анапа, Краснодарский край, Россия",
+        "shortName": "Санаторий и спа «Старинная Анапа»",
+        "displayName": "Санаторий и спа «Старинная Анапа», Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "Санаторий и спа «Старинная Анапа»",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "Санаторий и спа «Старинная Анапа»"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "10224714"
+      },
+      "coordinates": {
+        "lat": "44.896707",
+        "long": "37.307663"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "Naberezhnaya Str.2",
+        "city": "Anapa",
+        "province": "Krasnodar Krai"
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "3",
+      "hotelId": "15823089",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Alean Family Resort & SPA Riviera — Все включено, Анапа, Краснодарский край, Россия",
+        "shortName": "Alean Family Resort & SPA Riviera — Все включено",
+        "displayName": "Alean Family Resort & SPA Riviera — Все включено, Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "Alean Family Resort & SPA Riviera — Все включено",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "Alean Family Resort & SPA Riviera — Все включено"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "15823089"
+      },
+      "coordinates": {
+        "lat": "44.93082",
+        "long": "37.31578"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "Pionerskiy Pr. 28",
+        "city": "Anapa",
+        "province": ""
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "4",
+      "hotelId": "44335601",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Отель Beton Brut по системе «все включено», Анапа, Краснодарский край, Россия",
+        "shortName": "Отель Beton Brut по системе «все включено»",
+        "displayName": "Отель Beton Brut по системе «все включено», Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "Отель Beton Brut по системе «все включено»",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "Отель Beton Brut по системе «все включено»"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "44335601"
+      },
+      "coordinates": {
+        "lat": "44.976109",
+        "long": "37.275283"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "Verhnaya Doroga, 120",
+        "city": "Anapa",
+        "province": "Krasnodar Krai"
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "5",
+      "hotelId": "25741672",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Гостевой дом «Магдалена», Анапа, Краснодарский край, Россия",
+        "shortName": "Гостевой дом «Магдалена»",
+        "displayName": "Гостевой дом «Магдалена», Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "Гостевой дом «Магдалена»",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "Гостевой дом «Магдалена»"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "25741672"
+      },
+      "coordinates": {
+        "lat": "44.896903",
+        "long": "37.306665"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "Naberezhanaya Street, 3",
+        "city": "Anapa",
+        "province": "Krasnodar Krai"
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "6",
+      "hotelId": "16223376",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Парк-отель «Анапа», Анапа, Краснодарский край, Россия",
+        "shortName": "Парк-отель «Анапа»",
+        "displayName": "Парк-отель «Анапа», Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "Парк-отель «Анапа»",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "Парк-отель «Анапа»"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "16223376"
+      },
+      "coordinates": {
+        "lat": "44.896754",
+        "long": "37.31166"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "Ultisa Naberezhnaya 8",
+        "city": "Anapa",
+        "province": "Krasnodar Krai"
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "7",
+      "hotelId": "19167063",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Санаторий «Анапа-Океан», Анапа, Краснодарский край, Россия",
+        "shortName": "Санаторий «Анапа-Океан»",
+        "displayName": "Санаторий «Анапа-Океан», Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "Санаторий «Анапа-Океан»",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "Санаторий «Анапа-Океан»"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "19167063"
+      },
+      "coordinates": {
+        "lat": "44.8964",
+        "long": "37.30608"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "Ulitsa Lenina 3",
+        "city": "Anapa",
+        "province": ""
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "8",
+      "hotelId": "20126669",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "Отель «Оливия Анапа», Анапа, Краснодарский край, Россия",
+        "shortName": "Отель «Оливия Анапа»",
+        "displayName": "Отель «Оливия Анапа», Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "Отель «Оливия Анапа»",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "Отель «Оливия Анапа»"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "20126669"
+      },
+      "coordinates": {
+        "lat": "44.903209",
+        "long": "37.344883"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "Sadovaya Street 52",
+        "city": "Anapa",
+        "province": ""
+      }
+    },
+    {
+      "@type": "gaiaHotelResult",
+      "index": "9",
+      "hotelId": "17253941",
+      "type": "HOTEL",
+      "regionNames": {
+        "fullName": "SunMarInn Resort, Анапа, Краснодарский край, Россия",
+        "shortName": "SunMarInn Resort",
+        "displayName": "SunMarInn Resort, Анапа, Краснодарский край, Россия",
+        "primaryDisplayName": "SunMarInn Resort",
+        "secondaryDisplayName": "Анапа, Краснодарский край, Россия",
+        "lastSearchName": "SunMarInn Resort"
+      },
+      "essId": {
+        "sourceName": "LCM",
+        "sourceId": "17253941"
+      },
+      "coordinates": {
+        "lat": "44.900381",
+        "long": "37.321621"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "isoCode3": "RUS"
+        }
+      },
+      "cityId": "258",
+      "hotelAddress": {
+        "street": "Ulitsa Krasnoarmeyskaya 10",
+        "city": "Anapa",
+        "province": "Krasnodar Krai"
+      }
+    }
+  ]
+}

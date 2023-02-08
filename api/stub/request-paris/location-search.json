@@ -1,0 +1,298 @@
+{
+  "q": "париж",
+  "rid": "424eae7eb3624c9f91ab73b947df6041",
+  "rc": "OK",
+  "sr": [
+    {
+      "@type": "gaiaRegionResult",
+      "index": "0",
+      "gaiaId": "2734",
+      "type": "CITY",
+      "regionNames": {
+        "fullName": "Париж, Франция",
+        "shortName": "Париж",
+        "displayName": "Париж, Франция",
+        "primaryDisplayName": "Париж",
+        "secondaryDisplayName": "Франция",
+        "lastSearchName": "Париж"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "2734"
+      },
+      "coordinates": {
+        "lat": "48.856696",
+        "long": "2.351761"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "1",
+      "gaiaId": "4670531",
+      "type": "AIRPORT",
+      "regionNames": {
+        "fullName": "Париж, Франция (CDG-Руасси-Шарль-де-Голль)",
+        "shortName": "Париж (CDG-Руасси-Шарль-де-Голль)",
+        "displayName": "Париж (CDG - Руасси-Шарль-де-Голль), Франция",
+        "primaryDisplayName": "Париж (CDG - Руасси-Шарль-де-Голль)",
+        "secondaryDisplayName": "Франция",
+        "lastSearchName": "Париж (CDG - Руасси-Шарль-де-Голль)"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "4670531"
+      },
+      "coordinates": {
+        "lat": "49.004061",
+        "long": "2.571006"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      },
+      "isMinorAirport": "false"
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "2",
+      "gaiaId": "6200422",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "Центр Парижа, Париж, Франция",
+        "shortName": "Центр Парижа",
+        "displayName": "Центр Парижа, Париж, Франция",
+        "primaryDisplayName": "Центр Парижа",
+        "secondaryDisplayName": "Париж, Франция",
+        "lastSearchName": "Центр Парижа"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "6200422"
+      },
+      "coordinates": {
+        "lat": "48.862383",
+        "long": "2.339074"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "3",
+      "gaiaId": "6187879",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "9-й округ, Париж, Франция",
+        "shortName": "9-й округ",
+        "displayName": "9-й округ, Париж, Франция",
+        "primaryDisplayName": "9-й округ",
+        "secondaryDisplayName": "Париж, Франция",
+        "lastSearchName": "9-й округ"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "6187879"
+      },
+      "coordinates": {
+        "lat": "48.877173900988815",
+        "long": "2.337418178622501"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "4",
+      "gaiaId": "502232",
+      "type": "POI",
+      "regionNames": {
+        "fullName": "Опера Гарнье, Париж, Франция",
+        "shortName": "Опера Гарнье",
+        "displayName": "Опера Гарнье, Париж, Франция",
+        "primaryDisplayName": "Опера Гарнье",
+        "secondaryDisplayName": "Париж, Франция",
+        "lastSearchName": "Опера Гарнье"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "502232"
+      },
+      "coordinates": {
+        "lat": "48.871433",
+        "long": "2.331955"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "5",
+      "gaiaId": "6187856",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "1-й округ, Париж, Франция",
+        "shortName": "1-й округ",
+        "displayName": "1-й округ, Париж, Франция",
+        "primaryDisplayName": "1-й округ",
+        "secondaryDisplayName": "Париж, Франция",
+        "lastSearchName": "1-й округ"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "6187856"
+      },
+      "coordinates": {
+        "lat": "48.86258526876845",
+        "long": "2.3365234330010947"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "6",
+      "gaiaId": "502251",
+      "type": "POI",
+      "regionNames": {
+        "fullName": "Эйфелева башня, Париж, Франция",
+        "shortName": "Эйфелева башня",
+        "displayName": "Эйфелева башня, Париж, Франция",
+        "primaryDisplayName": "Эйфелева башня",
+        "secondaryDisplayName": "Париж, Франция",
+        "lastSearchName": "Эйфелева башня"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "502251"
+      },
+      "coordinates": {
+        "lat": "48.858262",
+        "long": "2.294496"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "7",
+      "gaiaId": "178676",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "Монмартр, Париж, Франция",
+        "shortName": "Монмартр",
+        "displayName": "Монмартр, Париж, Франция",
+        "primaryDisplayName": "Монмартр",
+        "secondaryDisplayName": "Париж, Франция",
+        "lastSearchName": "Монмартр"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "178676"
+      },
+      "coordinates": {
+        "lat": "48.886406544304144",
+        "long": "2.3387477088019364"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "8",
+      "gaiaId": "178675",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "Латинский квартал, Париж, Франция",
+        "shortName": "Латинский квартал",
+        "displayName": "Латинский квартал, Париж, Франция",
+        "primaryDisplayName": "Латинский квартал",
+        "secondaryDisplayName": "Париж, Франция",
+        "lastSearchName": "Латинский квартал"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "178675"
+      },
+      "coordinates": {
+        "lat": "48.84713359126475",
+        "long": "2.3467552926216464"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      }
+    },
+    {
+      "@type": "gaiaRegionResult",
+      "index": "9",
+      "gaiaId": "6187876",
+      "type": "NEIGHBORHOOD",
+      "regionNames": {
+        "fullName": "8-й округ, Париж, Франция",
+        "shortName": "8-й округ",
+        "displayName": "8-й округ, Париж, Франция",
+        "primaryDisplayName": "8-й округ",
+        "secondaryDisplayName": "Париж, Франция",
+        "lastSearchName": "8-й округ"
+      },
+      "essId": {
+        "sourceName": "GAI",
+        "sourceId": "6187876"
+      },
+      "coordinates": {
+        "lat": "48.87265903392636",
+        "long": "2.3124387155490913"
+      },
+      "hierarchyInfo": {
+        "country": {
+          "name": "Франция",
+          "isoCode2": "FR",
+          "isoCode3": "FRA"
+        }
+      }
+    }
+  ]
+}
